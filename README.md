@@ -8,3 +8,5 @@ os dados para consulta através de banco de dados disponíveis para a consulta a
 um scrapping dos dados das candidaturas eleitas do portal UOL. Este processo foi feito com uso de Python e os dados obtidos foram armazenados em um banco
 de dados no Google Big Query.</p>
 
+<a href="https://deepnote.com/@study-1d93/Scrap-Candidatos-Eleitos-40e553a8-385c-41d9-81e6-7f2054338b1c">Link para o notebook do projeto completo</a>
+
